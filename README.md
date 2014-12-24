@@ -1,4 +1,4 @@
-automaticpm
+AutomaticPM
 ===========
 
 AutomaticPM
